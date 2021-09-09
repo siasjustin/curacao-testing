@@ -12,6 +12,15 @@ const locations = [
 		}
 	},
 	{
+		name: "Montreal",
+		slug: "montreal",
+		zoom: {
+			left:'25%',
+			top: '10%',
+			scale: '2.1'
+		}
+	},
+	{
 		name: "New York",
 		slug: "new-york",
 		zoom: {
@@ -21,8 +30,71 @@ const locations = [
 		}
 	},
 	{
+		name: "Newark",
+		slug: "newark",
+		zoom: {
+			left:'18.2%',
+			top: '1.1%',
+			scale: '2'
+		}
+	},
+	{
 		name: "Miami",
 		slug: "miami",
+		zoom: {
+			left:'88.2%',
+			top: '-22.9%',
+			scale: '4'
+		}
+	},
+	{
+		name: "Montego Bay",
+		slug: "montego-bay",
+		zoom: {
+			left:'95.2%',
+			top: '-22.9%',
+			scale: '4'
+		}
+	},
+	{
+		name: "Panama City",
+		slug: "panama-city",
+		zoom: {
+			left:'103.2%',
+			top: '-51.9%',
+			scale: '4'
+		}
+	},
+	{
+		name: "Bogota",
+		slug: "bogota",
+		zoom: {
+			left:'94.2%',
+			top: '-49.9%',
+			scale: '4'
+		}
+	},
+	{
+		name: "Santo Domingo",
+		slug: "santo-domingo",
+		zoom: {
+			left:'80.2%',
+			top: '-22.9%',
+			scale: '4'
+		}
+	},
+	{
+		name: "Trinidad",
+		slug: "trinidad",
+		zoom: {
+			left:'80.2%',
+			top: '-22.9%',
+			scale: '4'
+		}
+	},
+	{
+		name: "Aruba",
+		slug: "aruba",
 		zoom: {
 			left:'88.2%',
 			top: '-22.9%',
